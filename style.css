@@ -1,0 +1,35 @@
+html {
+   font-size: 1rem;
+  }
+  
+  .x-small {
+            font-size: smaller;
+           }
+  .small {
+            font-size: small;
+         }
+  .medium { 
+            font-size: medium;
+          }
+  .large {
+            font-size: large;
+         }
+  .x-large {
+            font-size: x-large;
+           }
+
+  
+  /* Type will scale with modules */
+  h1 {
+    font-size: 3em;
+     }
+  h2 {
+    font-size: 3em;
+     }
+
+  .description {
+                position: relative;
+                
+                font-size: x-large;
+            }
+               
